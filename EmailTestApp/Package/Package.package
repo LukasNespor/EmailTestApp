@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package dslVersion="1.0.0.0" 
+        Id="c1ccb8bd-2048-451b-a98c-b5e9be51defc" 
+        solutionId="c1ccb8bd-2048-451b-a98c-b5e9be51defc" 
+        xmlns="http://schemas.microsoft.com/VisualStudio/2008/SharePointTools/PackageModel" 
+        name="EmailTestApp"
+        sharePointProductVersion="16.0">
+  <features>
+        <featureReference itemId="f3b986ed-efbf-4d4c-a8bd-0947b9d83231" />
+  </features>
+</package>
